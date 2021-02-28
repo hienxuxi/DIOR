@@ -1,0 +1,24 @@
+
+.new img{float: left;
+    width: 30%;
+    margin: 5px;
+    height: 200px;
+    clear: both;
+}
+h4{ float:right;
+        width: 50%;
+        margin: 0px;}
+p{
+     margin: 0px;
+    float: right;
+    width: 65%;
+}
+.new1{
+    background-image: url("q1.jpg");
+    background-size: 100% 100%;
+    width: 450px;
+    height: 350px;
+}
+.new{
+    color: black;
+}
